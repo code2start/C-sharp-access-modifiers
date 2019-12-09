@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "lib1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/lib1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lib1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lib1/1.0.0": {
+      "type": "project",
+      "path": "../lib1/lib1.csproj",
+      "msbuildProject": "../lib1/lib1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "lib1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Mohamed\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Mohamed\\source\\repos\\access_modifers_ar\\access_modifers_ar.csproj",
+      "projectName": "access_modifers_ar",
+      "projectPath": "C:\\Users\\Mohamed\\source\\repos\\access_modifers_ar\\access_modifers_ar.csproj",
+      "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mohamed\\source\\repos\\access_modifers_ar\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\Mohamed\\source\\repos\\lib1\\lib1.csproj": {
+              "projectPath": "C:\\Users\\Mohamed\\source\\repos\\lib1\\lib1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

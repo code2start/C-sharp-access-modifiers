@@ -1,0 +1,14 @@
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.exe
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.deps.json
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.runtimeconfig.json
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.dll
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\access_modifers_ar.pdb
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\lib1.dll
+C:\Users\Mohamed\source\repos\access_modifers_ar\bin\Debug\netcoreapp3.0\lib1.pdb
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.csproj.CopyComplete
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.dll
+C:\Users\Mohamed\source\repos\access_modifers_ar\obj\Debug\netcoreapp3.0\access_modifers_ar.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "access_modifers_ar/1.0.0": {
+        "dependencies": {
+          "lib1": "1.0.0"
+        },
+        "runtime": {
+          "access_modifers_ar.dll": {}
+        }
+      },
+      "lib1/1.0.0": {
+        "runtime": {
+          "lib1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "access_modifers_ar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
